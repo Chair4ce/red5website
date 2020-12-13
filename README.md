@@ -10,10 +10,10 @@ Built in Gatsby for the Red Five Team, formerly known as DGS-1 Software Developm
 
 ## To Deploy
 
-`npm run deploy`
+push new commits on main and it will deploy
 
 ## To Develop
 
 `npm run develop`
 
-### Website is deployed at https://redfiveteam.github.io/red5website/
+### Website is deployed at https://red5software.io
